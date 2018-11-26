@@ -1,6 +1,6 @@
 # csportfolio
 <ul>
-<li>* MyWebPage [here](https://schlegelo.github.io/testPage/dogPage2/)
+<li> MyWebPage <a href= https://schlegelo.github.io/testPage/dogPage2/> Here<a/>
   Personally this was my least favorite lab as what I created was not very interesting. I hope to create a better website in the future.     My Mom used to make hats and sell them and she is starting to do it again, so I might make a website for her.
 <li>* Lightning! [here](https://schlegelo.github.io/lightning2/)
 <li>* Dice [here](https://schlegelo.github.io/dice3/)
