@@ -1,10 +1,10 @@
 # csportfolio
 <ul>
 <li> MyWebPage <a href="https://schlegelo.github.io/testPage/dogPage2/">Here<a/>
-<li> Lightning! <a href ="https://schlegelo.github.io/lightning2/>Here<a/>
-<li>* Dice [here](https://schlegelo.github.io/dice3/)
-<li>* ChemoT [here](https://schlegelo.github.io/chemotaxis4/)
-<li>* Starfield [here](https://schlegelo.github.io/starfield5/)
+<li> Lightning! <a href="https://schlegelo.github.io/lightning2/">Here<a/>
+<li> Dice <a href="https://schlegelo.github.io/dice3/">Here<a/>
+<li> ChemoT <a href="https://schlegelo.github.io/chemotaxis4/">Here<a/>
+<li> Starfield <a href="https://schlegelo.github.io/starfield5/">Here<a/>
 <ul/>
 
 
