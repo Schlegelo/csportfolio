@@ -1,7 +1,6 @@
 # csportfolio
 
-* MyWebPage [here](https://schlegelo.github.io/testPage/dogPage2/)
-
+* MyWebPage [here](https://schlegelo.github.io/testPage/dogPage2/
 hi
 * Lightning! [here](https://schlegelo.github.io/lightning2/)
 * Dice [here](https://schlegelo.github.io/dice3/)
