@@ -2,7 +2,6 @@
 
 <ul>
   <li> MyWebPage <a href="https://schlegelo.github.io/testPage/dogPage2/">Here<a/>
-   <p> dfgfdsfgdnxdzf<p/>
   <li> Lightning! <a href="https://schlegelo.github.io/lightning2/">Here<a/>
   <li> Dice <a href="https://schlegelo.github.io/dice3/">Here<a/>
   <li> ChemoT <a href="https://schlegelo.github.io/chemotaxis4/">Here<a/>
@@ -12,7 +11,7 @@
 
 
 
-Toughest code so far!
+### Toughest code so far!
 ```Java
  while(endX < 300){
     
