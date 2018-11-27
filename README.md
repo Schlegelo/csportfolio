@@ -1,6 +1,7 @@
 # csportfolio
 
-##Projects
+## Projects
+
 <details><summary>MyWebPage</summary>
       <p>This is a <a href="https://schlegelo.github.io/testPage/dogPage2/">Website<a/> I created, using html, about my dog. </p>
  </details>
