@@ -2,18 +2,24 @@
 
 <details><summary>MyWebPage</summary>
       <p>This is a <a href="https://schlegelo.github.io/testPage/dogPage2/">Website<a/> I created, using html, about my dog </p>
-   </details>
-    <br>
+</details>
+<br>
     
  <details><summary>Lightning</summary>
-      <p>I used the random and line methods along with a loop to create <a href="https://schlegelo.github.io/lightning2/">Linghtning<a/         </p>
-    </details>
-    <br>
+      <p>I used the random and line methods along with a loop to create <a href="https://schlegelo.github.io/lightning2/">Lightning<a/>       </p>
+ </details>
+ <br>
+       
+ <details><summary>Dice</summary>
+      <p>I created <a href="https://schlegelo.github.io/dice3/">Dice<a/> objects that stored a random value from 1 to 6 and used a              nested for loop to make a grid of them</p>
+ </details>
+ <br>
+
+
 
 <ul>
-  <li> Lightning! <a href="https://schlegelo.github.io/lightning2/">Linghtning<a/>
-    <p> <p/>
-  <li> Dice <a href="https://schlegelo.github.io/dice3/">Here<a/>
+ 
+  <li> Dice <a href="https://schlegelo.github.io/dice3/">Dice<a/>
   <li> ChemoT <a href="https://schlegelo.github.io/chemotaxis4/">Here<a/>
   <li> Starfield <a href="https://schlegelo.github.io/starfield5/">Here<a/>
 <ul/>
