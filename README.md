@@ -48,4 +48,4 @@
     //}
   }
   ```
-<p>   I wouldn't say any of my code was particularily tough, but I dedcided to pick this snippet as I actually had to use math to solve my problem. My issue was I wanted my bacteria to move directly to the mouse and maintain a constant velocity. Since the mouse and bacteria form a right triangle due to the x and y and I used the difference in the x and y to find the angle of the triangle. Then I used the angle and and the Hypothenuse (which was set as my desired speed) to find the necessary movement in the x and y to achieve the desired magnitude and direction </p>
+   I wouldn't say any of my code was particularily tough, but I dedcided to pick this snippet as I actually had to use math to solve my problem. My issue was I wanted my bacteria to move directly to the mouse and maintain a constant velocity. Since the mouse and bacteria form a right triangle due to the x and y and I used the difference in the x and y to find the angle of the triangle. Then I used the angle and and the Hypothenuse (which was set as my desired speed) to find the necessary movement in the x and y to achieve the desired magnitude and direction 
