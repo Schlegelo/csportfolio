@@ -1,9 +1,10 @@
 # csportfolio
 
 <details><summary>MyWebPage</summary>
-      <p>This is a <a href="https://schlegelo.github.io/testPage/dogPage2/">website<a/> I created, using html, about my dog
-      </p>
+      <p>This is a <a href="https://schlegelo.github.io/testPage/dogPage2/">website<a/> I created, using html, about my dog </p>
     </details>
+    <br>
+    
 
 <ul>
   <li> Lightning! <a href="https://schlegelo.github.io/lightning2/">Here<a/>
