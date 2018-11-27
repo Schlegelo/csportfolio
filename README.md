@@ -21,7 +21,7 @@
 <br>
 
 <details><summary>StarField</summary>
-      <p>I created a particle interface that thet my other classes inherited. The objects of these classes moved in patterns creating a        <a href="https://schlegelo.github.io/starfield5/">StarField<a/>. </p>
+      <p>I created a particle interface that my other classes inherited. The objects of these classes moved in patterns creating a        <a href="https://schlegelo.github.io/starfield5/">StarField<a/>. </p>
  </details>
 <br>
 
