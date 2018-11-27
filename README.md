@@ -1,13 +1,17 @@
 # csportfolio
 
 <details><summary>MyWebPage</summary>
-      <p>This is a <a href="https://schlegelo.github.io/testPage/dogPage2/">website<a/> I created, using html, about my dog </p>
-    </details>
+      <p>This is a <a href="https://schlegelo.github.io/testPage/dogPage2/">Website<a/> I created, using html, about my dog </p>
+   </details>
     <br>
     
+ <details><summary>Lightning</summary>
+      <p>I used the random and line methods along with a loop to create <a href="https://schlegelo.github.io/lightning2/">Linghtning<a/         </p>
+    </details>
+    <br>
 
 <ul>
-  <li> Lightning! <a href="https://schlegelo.github.io/lightning2/">Here<a/>
+  <li> Lightning! <a href="https://schlegelo.github.io/lightning2/">Linghtning<a/>
     <p> <p/>
   <li> Dice <a href="https://schlegelo.github.io/dice3/">Here<a/>
   <li> ChemoT <a href="https://schlegelo.github.io/chemotaxis4/">Here<a/>
