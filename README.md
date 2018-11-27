@@ -48,3 +48,4 @@
     //}
   }
   ```
+  <p>I wouldn't say any of my code was particularily tough, but I dedcided to pick this snippet as I actually had to use math to solve my problem.  </p>
