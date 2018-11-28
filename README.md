@@ -29,7 +29,7 @@
 <br>
 
 <details><summary>College Presentation</summary>
-      <p>This is my College <a href="https://docs.google.com/presentation/d/1K49Nkw2Y0CEyVzI35rrmoM1k56l0PZYu-                                  PXeGz8CXdQ/edit#slide=id.p">Presentation<a/> of the University of Manitoba computer science department. </p>
+      <p>This is my College <a href="https://docs.google.com/presentation/d/1K49Nkw2Y0CEyVzI35rrmoM1k56l0PZYu-PXeGz8CXdQ/edit#slide=id.p">Presentation<a/> of the University of Manitoba computer science department. </p>
  </details>
 <br>
 
