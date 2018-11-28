@@ -24,7 +24,12 @@
 <br>
 
 <details><summary>StarField</summary>
-      <p>I created a particle interface that my other classes inherited. The objects of these classes moved in patterns creating a        <a href="https://schlegelo.github.io/starfield5/">StarField<a/>. </p>
+      <p>I created a particle interface that my other classes inherited. The objects of these classes moved in patterns creating a              <a href="https://schlegelo.github.io/starfield5/">StarField<a/>. </p>
+ </details>
+<br>
+
+<details><summary>College Presentation</summary>
+      <p>This is my College <a href="https://docs.google.com/presentation/d/1K49Nkw2Y0CEyVzI35rrmoM1k56l0PZYu-                                  PXeGz8CXdQ/edit#slide=id.p">Presentation<a/> of the University of Manitoba computer science department. </p>
  </details>
 <br>
 
