@@ -28,6 +28,8 @@
  </details>
 <br>
 
+### Project Reflection
+      looking at my projects I am pleased with what I have done, but I think I could do better. Due to time constraints I was unable to do more with my projects than I accomplished. An example of this is my Chemotaxis; I was hoping to add collision and have the bacteria grow and multiply as they consumed particles. While I was unable to do this I still hope to add it sometime down the road. I would also like to make another website in the future. My mom used to make and sell and she is starting again, so I may make a website for her. My favorite project is definetly StarField as I was able to complete it and I am really pleased with how it turned out as I think it looks very appealing. Generally I would have to say these projects were pretty easy, though they certainly would have been harder had I added more things to them such as collision.
 
 ## Toughest code so far!
 ```Java
